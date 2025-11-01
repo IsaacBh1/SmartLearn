@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hPy9/jaDkY=",
+  "success": true,
+  "projectFilePath": "/home/isaac/source/SmartLearn/SmartLearn.Backend/SmartLearn.Application/SmartLearn.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/isaac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}

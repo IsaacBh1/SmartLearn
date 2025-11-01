@@ -1,0 +1,11 @@
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/bin/Debug/net9.0/SmartLearn.Contracts.deps.json
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/bin/Debug/net9.0/SmartLearn.Contracts.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/bin/Debug/net9.0/SmartLearn.Contracts.pdb
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/SmartLearn.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/SmartLearn.Contracts.AssemblyInfoInputs.cache
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/SmartLearn.Contracts.AssemblyInfo.cs
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/SmartLearn.Contracts.csproj.CoreCompileInputs.cache
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/SmartLearn.Contracts.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/refint/SmartLearn.Contracts.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/SmartLearn.Contracts.pdb
+/home/isaac/source/repos/SmartLearn/SmartLearn.Contracts/obj/Debug/net9.0/ref/SmartLearn.Contracts.dll

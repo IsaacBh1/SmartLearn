@@ -1,0 +1,15 @@
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/bin/Debug/net9.0/SmartLearn.Domain.deps.json
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/bin/Debug/net9.0/SmartLearn.Domain.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/bin/Debug/net9.0/SmartLearn.Domain.pdb
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.AssemblyInfoInputs.cache
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.AssemblyInfo.cs
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.csproj.CoreCompileInputs.cache
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/refint/SmartLearn.Domain.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.pdb
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/ref/SmartLearn.Domain.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.xml
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLearn.Domain.csproj.AssemblyReference.cache
+/home/isaac/source/repos/SmartLearn/SmartLearn.Domain/obj/Debug/net9.0/SmartLea.073EBD40.Up2Date
