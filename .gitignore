@@ -57,3 +57,6 @@ docker-compose.vs.release.yml
 */obj/
 *.user
 *.vs/
+
+bin/
+obj/
