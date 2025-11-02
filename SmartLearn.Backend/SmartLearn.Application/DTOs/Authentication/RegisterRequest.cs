@@ -1,4 +1,4 @@
-namespace SmartLearn.Contracts.Authentication; 
+namespace SmartLearn.Application.DTOs.Auth; 
 
 
 public record RegisterRequest
@@ -6,5 +6,6 @@ public record RegisterRequest
     string FirstName,
     string LastName,
     string Email,
-    string Password
+    string Password , 
+    string Role 
 );

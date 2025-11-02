@@ -1,4 +1,4 @@
-namespace SmartLearn.Contracts.Authentication; 
+namespace SmartLearn.Application.DTOs.Auth; 
 
 
 public record LoginRequest

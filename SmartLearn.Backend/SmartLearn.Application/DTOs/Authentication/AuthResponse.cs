@@ -1,0 +1,11 @@
+namespace SmartLearn.Application.DTOs.Auth; 
+
+
+public record AuthResponse (
+
+    Guid Id , 
+    string FirstName,
+    string LastName,
+    string Token , 
+    string RefreshToken 
+); 
