@@ -5,7 +5,7 @@ using SmartLearn.Infrastructure.Persistence.Configs;
 
 namespace SmartLearn.Infrastructure.Persistence;
 
-public class AppDbContext(DbContextOptions<AppDbContext> options) : IdentityDbContext<User, ApplicationRole , Guid>(options)
+public class AppDbContext(DbContextOptions<AppDbContext> options) : IdentityUserContext<User , Guid>(options)
 {
     
     public DbSet<Course> Courses { get; set; }
@@ -19,7 +19,6 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : IdentityDbCo
     public DbSet<QuizQuestion> QuizQuestions { get; set; }
     public DbSet<StudentEnrollment> StudentEnrollments { get; set; }
     public DbSet<TFQuizQuestion> TfQuizQuestions { get; set; }
-    
     
     protected override void OnModelCreating(ModelBuilder builder)
     {

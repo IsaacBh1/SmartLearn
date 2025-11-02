@@ -1,6 +1,8 @@
 namespace SmartLearn.Domain.Shared;
 
-public class enRole
+public enum enRole
 {
-    
+    Admin , 
+    Teacher , 
+    Student 
 }

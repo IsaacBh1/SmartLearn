@@ -2,7 +2,7 @@ namespace SmartLearn.Domain.Entities;
 
 public class Lesson : BaseModel<Guid>
 {
-    public required string Name { get; set; }
+    public required string Name { get; init; }
     public string? VideoUrl { get; set; }
     public string? Content { get; set; } 
     public Guid CourseId { get; set; }

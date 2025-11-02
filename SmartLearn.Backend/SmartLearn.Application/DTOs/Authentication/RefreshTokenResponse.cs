@@ -1,6 +1,7 @@
-namespace SmartLearn.Application.DTOs.Auth;
+namespace SmartLearn.Application.DTOs.Authentication;
 
 public class RefreshTokenResponse
-(      string Token,
-    string RefreshToken
+(
+        string Token,
+        string RefreshToken
 );

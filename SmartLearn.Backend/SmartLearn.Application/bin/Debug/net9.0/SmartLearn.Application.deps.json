@@ -9,7 +9,9 @@
       "SmartLearn.Application/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-rc.2.25502.107",
-          "SmartLearn.Domain": "1.0.0"
+          "SmartLearn.Domain": "1.0.0",
+          "Microsoft.Extensions.Identity.Core": "9.0.0.0",
+          "Microsoft.Extensions.Identity.Stores": "9.0.0.0"
         },
         "runtime": {
           "SmartLearn.Application.dll": {}
@@ -28,6 +30,14 @@
           "SmartLearn.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Identity.Core/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Identity.Core.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.1025.47517"
           }
         }
       },
@@ -56,6 +66,11 @@
     },
     "SmartLearn.Domain/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Identity.Core/9.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

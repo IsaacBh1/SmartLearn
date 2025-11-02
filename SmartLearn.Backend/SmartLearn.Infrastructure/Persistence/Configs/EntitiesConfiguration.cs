@@ -80,6 +80,12 @@ public static class EntitiesConfiguration
             .WithMany()
             .HasForeignKey(f => f.CourseId);
 
+        builder.Entity<User>()
+            .Property(u => u.Role)
+            .HasConversion<string>()
+            .HasMaxLength(50);
+
+        
         // this is for composite primary key
         builder.Entity<UserQuizAnswer>()
             .HasKey(e => new {e.QuizQuestionId , e.UserId});

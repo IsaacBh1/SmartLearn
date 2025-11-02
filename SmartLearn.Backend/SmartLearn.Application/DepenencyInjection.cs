@@ -1,5 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
+using SmartLearn.Application.Interfaces.Authentication;
 using SmartLearn.Application.Services.Authentication;
+using SmartLearn.Domain.Entities;
 
 namespace  SmartLearn.Application;
 
