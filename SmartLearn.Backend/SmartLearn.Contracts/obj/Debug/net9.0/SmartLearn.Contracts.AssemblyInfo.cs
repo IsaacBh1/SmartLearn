@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartLearn.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+472fe898f2b0badc6772b71ffe438f531d5be115")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d1d85bf5da456d384b0ba28d6e4e5c77d0bb36")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartLearn.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartLearn.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

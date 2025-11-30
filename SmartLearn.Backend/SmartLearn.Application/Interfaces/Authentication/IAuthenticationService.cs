@@ -7,8 +7,8 @@ namespace SmartLearn.Application.Interfaces.Authentication;
 public interface IAuthenticationService
 {
     Task<Result<AuthResponse>> Register(RegisterRequest request);
-    Result <AuthResponse> Login(LoginRequest request);   
-    Result<RefreshTokenResponse> RefreshToken(RefreshTokenRequest request); 
-    Result<bool> RevokeToken(string email);
+    Task<Result<AuthResponse>> Login(LoginRequest request);   
+    Task<Result<RefreshTokenResponse>> RefreshToken(RefreshTokenRequest request); 
+    Task<Result<bool>> RevokeToken(string email);
 
 }

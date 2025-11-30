@@ -1,7 +1,6 @@
 namespace SmartLearn.Application.DTOs.Authentication;
 
-public class RefreshTokenResponse
-(
+public record RefreshTokenResponse(
         string Token,
         string RefreshToken
 );

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SmartLearn.Application;
+using SmartLearn.Application.Common;
 using SmartLearn.Domain.Entities;
 using SmartLearn.Infrastructure;
 using SmartLearn.Infrastructure.Persistence;
@@ -13,6 +14,8 @@ builder.Services.AddApplicationServices()
     .AddInfrastructureServices();
 
 var connectionString = builder.Configuration.GetConnectionString("DbConnection");
+builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection(JwtSettings.SectionName));
+
 builder.Services.AddDbContext<AppDbContext>(options => 
     options.UseNpgsql(connectionString)); 
 

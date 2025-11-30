@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartLearn.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd8d91d4884b9145aa3115dbe552abb5a0c213be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d1d85bf5da456d384b0ba28d6e4e5c77d0bb36")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartLearn.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartLearn.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
